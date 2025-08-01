@@ -26,13 +26,14 @@ h1, h2 {
 #start-btn {
     padding: 10px 20px;
     font-size: 18px;
-    margin-top: 10px;
+    margin: 10px auto 0 auto;
     background-color: #28a745;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: 0.2s;
+    display: block;
 }
 
 #start-btn:hover {
